@@ -14,5 +14,10 @@ Please cite: Park, S., Finlayson, S.A., C, Li., 2026. RRTF1 promotes touch-respo
 4. edgeR_rrtf1_touch.R uses edgeR to analyze differential gene expression using the glmTreat function.
 
 # Figure generation
-' - Touch_figure.R generates figures.
-' - Touch_figure_supp.R generates supplementary figures.
+- Touch_figure.R generates figures.
+- dsfsdf
+
+`
+  
+Touch_figure_supp.R generates supplementary figures.
+
