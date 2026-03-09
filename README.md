@@ -1,5 +1,5 @@
 # RRTF1-dependent_touch_transcriptome
-Please cite: Park, S., Finlayson, S.A., C, Li., 2026. RRTF1 promotes touch-responses in Arabidopsis shoots independent of jasmonic acid. BioRxiv.
+Please cite: Park, S., Finlayson, S.A., C, Li., 2026. RRTF1 promotes touch-responses in Arabidopsis shoots independent of jasmonic acid. [BioRxiv](doi: https://doi.org/10.64898/2026.03.08.710212).
 
 # RNA-seq analysis of Arabidopsis shoots.
 1. Trimmomatic_code.sh runs Trimmomatic to trim the adapter sequences and low-quality reads.
@@ -16,7 +16,3 @@ Please cite: Park, S., Finlayson, S.A., C, Li., 2026. RRTF1 promotes touch-respo
 # Figure generation
 - Touch_figure.R generates figures.
 - Touch_figure_supp.R generates supplementary figures.
-
-  
-
-
